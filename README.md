@@ -58,8 +58,15 @@ add_expense("James", ["James", "Harish", "Kamal"], 1250)
 add_expense("Harish", ["Harish", "Kamal"], 800)
 add_expense("Kamal", ["James", "Harish", "Kamal", "Santhosh"], 1785)
 
-display_settlements()
+**display_settlements()**
 shows the final balances between friends.
 
-suggest_payments()
+**suggest_payments()**
 suggests the optimized transactions required to settle debts.
+
+## Example Output
+### Final Settlement
+![Settlement](settlement_output.png)
+
+### Suggested Transactions
+![Transactions](suggested_payments.png)
