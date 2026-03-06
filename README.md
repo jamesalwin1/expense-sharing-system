@@ -1,4 +1,4 @@
-# expense-sharing-system
+# Expense-Sharing-System
 
 ## Description:
 This project implements a simple expense sharing system similar to Google Pay / Splitwise.
