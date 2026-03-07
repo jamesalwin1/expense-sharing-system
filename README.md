@@ -54,9 +54,9 @@ pip install numpy prettytable
 5. Generate optimized payment suggestions using `suggest_payments()`.
 
 Example:
-add_expense("James", ["James", "Harish", "Kamal"], 1250)
-add_expense("Harish", ["Harish", "Kamal"], 800)
-add_expense("Kamal", ["James", "Harish", "Kamal", "Santhosh"], 1785)
+- add_expense("James", ["James", "Harish", "Kamal"], 1250)
+- add_expense("Harish", ["Harish", "Kamal"], 800)
+- add_expense("Kamal", ["James", "Harish", "Kamal", "Santhosh"], 1785)
 
 **display_settlements()**
 shows the final balances between friends.
